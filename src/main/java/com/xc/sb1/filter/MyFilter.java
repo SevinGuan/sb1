@@ -7,7 +7,7 @@ public class MyFilter implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        System.out.println("ss");
+        System.out.println("sss");
     }
 
     @Override
